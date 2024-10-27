@@ -86,34 +86,6 @@ const Technologies = () => {
                 className="rounded-2xl border-4 border-neutral-800 p-4 bg-white">
                 <SiDatabricks className="text-7xl" style={{ color: "#FF5733" }} />
             </motion.div>
-
-            {/* Machine Learning */}
-            {/* <motion.div 
-                variants={iconVariants(3)}
-                initial="initial"
-                animate="animate"
-                className="rounded-2xl border-4 border-neutral-800 p-4 bg-white">
-                <FaBrain className="text-7xl" style={{ color: "#F7931E" }} />
-            </motion.div> */}
-
-            {/* Deepnote */}
-            {/* <motion.div 
-                variants={iconVariants(2.8)}
-                initial="initial"
-                animate="animate"
-                className="rounded-2xl border-4 border-neutral-800 p-4 bg-white">
-                <FaRobot className="text-7xl" style={{ color: "#007ACC" }} />
-            </motion.div> */}
-
-            {/* NLP */}
-            {/* <motion.div 
-                variants={iconVariants(4)}
-                initial="initial"
-                animate="animate"
-                className="rounded-2xl border-4 border-neutral-800 p-4 bg-white">
-                <FaCommentDots className="text-7xl" style={{ color: "#6A4E9C" }} />
-            </motion.div> */}
-
             {/* Power BI */}
             <motion.div 
                 variants={iconVariants(6)}
