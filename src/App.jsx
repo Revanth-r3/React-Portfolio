@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import Project from "./components/Project";
 import Stats from "./components/Stats";
 import Technologies from "./components/Technologies";
-import Hero from "./components/hero";
+import Hero from "./components/Hero";
 import { PROJECTS } from "./constants";
 
 
