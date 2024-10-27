@@ -172,9 +172,10 @@ const Technologies = () => {
                 
                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mx-auto max-w-4xl">
                     {[
-                        "Python", "C++", "MySQL", "Apache Spark", "Apache Hadoop", "Databricks", 
-                        "Machine Learning", "Deepnote", "Natural Language Processing (NLP)", 
-                        "Power BI", "Visual Studio Code", "Microsoft Azure", "Linux", "GitHub"
+                        "Python", "Pyspark", "MySQL", "Apache Spark", "Apache Hadoop", "Power BI", 
+                        "Machine Learning", "Deep Learning", "Natural Language Processing", 
+                        "Azure Databricks", "Visual Studio Code", "Microsoft Azure", "Azure Data Factory","Microsoft Fabric",
+                        "Linux", "GitHub"
                     ].map((skill, index) => (
                         <motion.div 
                             key={index}
