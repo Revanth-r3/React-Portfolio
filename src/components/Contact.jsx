@@ -1,5 +1,5 @@
 import { CONTACT } from "../constants";
-import RESUME from "../assets/CV-Revanth_R.pdf";
+import RESUME from "../assets/CV_Revanth_R.pdf";
 import { motion } from "framer-motion";
 import { useState } from "react";
 import emailjs from "emailjs-com"; // Import emailjs
